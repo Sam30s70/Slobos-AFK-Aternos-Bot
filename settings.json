@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "majnrp.aternos.me",
-    "port": 39517,
-    "version": "1.21",
+    "ip": "vortex-smp1.aternos.me",
+    "port": 41441,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
